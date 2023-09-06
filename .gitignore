@@ -1,0 +1,39 @@
+bin/
+out/
+target/
+cmake-build-*/
+
+# Binary Files
+*.out
+*.exe
+*.bin
+*.o
+*.dll
+*.pdb
+*.so
+*.dylib
+
+# Textual Outputs
+*.log
+*.swp
+*~
+_ReSharper*
+
+# IDEs & Tools
+.cargo/
+.vs/
+.vscode/
+.idea/
+
+# (OS) Generated Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.Trash-*
+$RECYCLE.BIN/
+.TemporaryItems
+ehthumbs.db
+Thumbs.db
